@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/brine-ketum/kubernetesmanifest.git
+    repoURL: https://github.com/ebanghaebane/kubernetesmanifest.git
     targetRevision: HEAD
     path: ./
   destination: 
